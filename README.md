@@ -1,1 +1,1 @@
-Under development project using Sprimng Boot with latest Microservices components.
+Under development project using Spring Boot with latest Microservices components.
